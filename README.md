@@ -61,7 +61,3 @@ This project aims to build a predictive system that identifies customers likely 
 Try the system live through Gradio (link provided in the notebook or deployment instructions).
 
 ---
-
-## How to Use
-
-Clone the repository, install dependencies, and run the notebook for a detailed walkthrough of preprocessing, model training, evaluation, and deployment steps.
